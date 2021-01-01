@@ -1,6 +1,6 @@
 BEGIN;
 
--- CREATE SEQUENCE "id_sel_seq" -------------------------------
+-- CREATE SEQUENCE "id_role" -------------------------------
 CREATE SEQUENCE "public"."id_role"
 INCREMENT 1
 MINVALUE 1
